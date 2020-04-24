@@ -1,0 +1,48 @@
+6492.6 > 6493
+6493.5 > 6494
+6492.7 > 6493
+6493.6 > 6494
+6493 > 6493
+6493 > 6493
+6493 > 6493
+6494.8 > 6495
+ - price is 6500
+6500 [bought] = false - now BUY
+turn 6500 [bought] to true, turn 6550 [sold] to false
+6500 [sold] = false - now SELL
+turn 6500 [sold] to true, turn 6450 [bought] to false
+
+Должно было сработать 2 ордера: покупка, потом продажа. Но покупка не произошла тк не хватало денег, но второй ордер (на продажу) сработал и деньги появились, и я...
+vipilnil vruchnuyu 08.11.2018 ~20:00
+
+{ message: 'Invalid order: not enough exchange balance for 0.003017 BTCUSD at 6494.8' }
+
+{ id: 18833530078,
+  cid: 72006066729,
+  cid_date: '2018-11-08',
+  gid: null,
+  symbol: 'btcusd',
+  exchange: 'bitfinex',
+  price: '6497.7',
+  avg_execution_price: '0.0',
+  side: 'sell',
+  type: 'exchange market',
+  timestamp: '1541707206.093055828',
+  is_live: true,
+  is_cancelled: false,
+  is_hidden: false,
+  oco_order: null,
+  was_forced: false,
+  original_amount: '0.003',
+  remaining_amount: '0.003',
+  executed_amount: '0.0',
+  src: 'api',
+  order_id: 18833530078 }
+6496.4 > 6496
+6502.9 > 6503
+6502.6 > 6503
+6501.6 > 6502
+6502 > 6502
+6504 > 6504
+6503.7233165 > 6504
+6504.4 > 6504

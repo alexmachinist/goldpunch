@@ -1,0 +1,5237 @@
+6450.6 > 6451
+6450.6 > 6451
+6450.5 > 6451
+6450.6 > 6451
+6450.5 > 6451
+6446.9 > 6447
+6446.9 > 6447
+6447 > 6447
+6447 > 6447
+6447 > 6447
+6447 > 6447
+6447 > 6447
+6447 > 6447
+6447 > 6447
+6446.7 > 6447
+6444.7 > 6445
+6444.7 > 6445
+6440 > 6440
+6436.6 > 6437
+6434.15885475 > 6434
+6434.2 > 6434
+6432.8 > 6433
+6432.9 > 6433
+6432.9 > 6433
+6432.9 > 6433
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6434.6 > 6435
+6445.8 > 6446
+6444.5 > 6445
+6443.5 > 6444
+6443.5 > 6444
+6443 > 6443
+6443 > 6443
+6443 > 6443
+6442.9002973 > 6443
+6443 > 6443
+6442.9 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443.1 > 6443
+6443 > 6443
+6442.1 > 6442
+6441.4 > 6441
+6440.1 > 6440
+6440.1 > 6440
+6440.1 > 6440
+6440.1 > 6440
+6439.1 > 6439
+6436.8 > 6437
+6440.08443302 > 6440
+6439.9 > 6440
+6439.9 > 6440
+6440.1 > 6440
+6435 > 6435
+6434.5 > 6435
+6432.9 > 6433
+6424.9 > 6425
+6426.4 > 6426
+6422 > 6422
+6421.4 > 6421
+6424.5 > 6425
+6427 > 6427
+6428.9 > 6429
+6429.4 > 6429
+6429.9 > 6430
+6427 > 6427
+6434.5 > 6435
+6440.6307168 > 6441
+6439 > 6439
+6438.1 > 6438
+6437.4 > 6437
+6437.4 > 6437
+6438.2 > 6438
+6438.2 > 6438
+6438.2 > 6438
+6439.9 > 6440
+6438.75764288 > 6439
+6436.7 > 6437
+6436.1 > 6436
+6431.9 > 6432
+6430.9 > 6431
+6430.9 > 6431
+6430.9 > 6431
+6429.6 > 6430
+6416.1 > 6416
+6407.8 > 6408
+6406.2 > 6406
+6411.7 > 6412
+6414.90148585 > 6415
+6415.2 > 6415
+6421 > 6421
+6419.1 > 6419
+6412.7 > 6413
+6418.6 > 6419
+6417 > 6417
+6417 > 6417
+6417.3 > 6417
+6417.4 > 6417
+6420 > 6420
+6420 > 6420
+6422.3 > 6422
+6422.11114124 > 6422
+6417.92196295 > 6418
+6417.9 > 6418
+6419.3 > 6419
+6420.1 > 6420
+6420.1 > 6420
+6417.6 > 6418
+6410.17887658 > 6410
+6410.8 > 6411
+6410.8 > 6411
+6410.8 > 6411
+6409.6 > 6410
+6399.3 > 6399
+6400.82672422 > 6401
+6405.2 > 6405
+6407.8 > 6408
+6410.1 > 6410
+6410.03751658 > 6410
+6410.03751658 > 6410
+6410.1 > 6410
+6415.01423445 > 6415
+6415.01423445 > 6415
+6420.9 > 6421
+6420.9 > 6421
+6421 > 6421
+6421 > 6421
+6421 > 6421
+6421.6 > 6422
+6422.1 > 6422
+6427.8 > 6428
+6428.6 > 6429
+6428.7 > 6429
+6424.5 > 6425
+6420.9 > 6421
+6414.2 > 6414
+6414.3 > 6414
+6414.3 > 6414
+6414.3 > 6414
+6414.3 > 6414
+6414.3 > 6414
+6425.2 > 6425
+6432 > 6432
+6436 > 6436
+6436 > 6436
+6436.3 > 6436
+6436.3 > 6436
+6440 > 6440
+6441.1 > 6441
+6436.2 > 6436
+6436 > 6436
+6436.1831128 > 6436
+6441 > 6441
+6441 > 6441
+6441 > 6441
+6442.1 > 6442
+6442.1 > 6442
+6442.1 > 6442
+6444 > 6444
+6444 > 6444
+6444 > 6444
+6444 > 6444
+6444 > 6444
+6444 > 6444
+6444.6096162 > 6445
+6444.0803537 > 6444
+6444.0803537 > 6444
+6442.170031 > 6442
+6442.170031 > 6442
+6442.2 > 6442
+6442.1 > 6442
+6442.1 > 6442
+6442.1 > 6442
+6442.170031 > 6442
+6442.2 > 6442
+6442.2 > 6442
+6442.2 > 6442
+6442.2 > 6442
+6442.2 > 6442
+6442.2 > 6442
+6448.2 > 6448
+ - price is 6450
+
+ - price is 6450
+
+6450 > 6450
+6465.1 > 6465
+6470 > 6470
+6468.9 > 6469
+6456.1 > 6456
+6456.2 > 6456
+6456.2 > 6456
+6456.2 > 6456
+6456.1 > 6456
+6456.2 > 6456
+6456.2 > 6456
+6453.5 > 6454
+6453.4 > 6453
+6453.4 > 6453
+6453.4 > 6453
+6452.2 > 6452
+6452.22189348 > 6452
+6452.22189348 > 6452
+6452.22189348 > 6452
+6452.2 > 6452
+6452.2 > 6452
+6452.264728 > 6452
+6452.2 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.2 > 6452
+6452.2 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.3 > 6452
+6452.3 > 6452
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450.07568528 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.7 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.8 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.8 > 6450
+6448.7 > 6449
+6448.6202096 > 6449
+6448.6202096 > 6449
+6448.6202096 > 6449
+6448.6 > 6449
+6446.9 > 6447
+6444.6 > 6445
+6445.31323471 > 6445
+6445.4 > 6445
+6445.3 > 6445
+6446 > 6446
+6448.8 > 6449
+6448.9 > 6449
+6448.9 > 6449
+6448.9 > 6449
+6448.9 > 6449
+6448.8 > 6449
+6448.9 > 6449
+6448.9 > 6449
+6452.9 > 6453
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6464.8 > 6465
+6464.8 > 6465
+6462.6 > 6463
+6462.6 > 6463
+6459.1 > 6459
+6458.8 > 6459
+6458.7 > 6459
+6458.7 > 6459
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458 > 6458
+6458.05923782 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458.0100958 > 6458
+6458.0100958 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.0100958 > 6458
+6458 > 6458
+6458 > 6458
+6458.0100958 > 6458
+6458.0100958 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.0696763 > 6458
+6458.0696763 > 6458
+6458.00202054 > 6458
+6458.00202054 > 6458
+6458.00202054 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.00531056 > 6458
+6458 > 6458
+6458.00531056 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.01716343 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.6 > 6459
+6458.6 > 6459
+6458.6 > 6459
+6458.57925802 > 6459
+6458.6 > 6459
+6458.6 > 6459
+6458.6 > 6459
+6458.6 > 6459
+6458.6 > 6459
+6464.2 > 6464
+6464.3 > 6464
+6464.4 > 6464
+6464.4 > 6464
+6464.3 > 6464
+6464.4 > 6464
+6464.31702154 > 6464
+6464.31702154 > 6464
+6461.3 > 6461
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6459.981264 > 6460
+6459.9 > 6460
+6459.9 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6460 > 6460
+6459.9 > 6460
+6460 > 6460
+6460.2 > 6460
+6460 > 6460
+6460.1 > 6460
+6460.1 > 6460
+6460.1 > 6460
+6459.9 > 6460
+6459.93581948 > 6460
+6459.9 > 6460
+6459.03643579 > 6459
+6459 > 6459
+6459.1 > 6459
+6460.04824244 > 6460
+6460.04824244 > 6460
+6460 > 6460
+6459.63850679 > 6460
+6459.1 > 6459
+6459 > 6459
+6459.07615513 > 6459
+6459.07615513 > 6459
+6459.07615513 > 6459
+6459.07615513 > 6459
+6459.07615513 > 6459
+6459.07615513 > 6459
+6459.07615513 > 6459
+6459 > 6459
+6459 > 6459
+6458.1 > 6458
+6458.08498954 > 6458
+6458 > 6458
+6457 > 6457
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6451.4 > 6451
+6449 > 6449
+6448.7 > 6449
+6448.7 > 6449
+6448.1 > 6448
+6448 > 6448
+6448.1 > 6448
+6448.1 > 6448
+6449.2 > 6449
+6449.2 > 6449
+6449.2 > 6449
+6449.2 > 6449
+6449.2 > 6449
+6449 > 6449
+6448.1 > 6448
+6448.1 > 6448
+6448.1 > 6448
+6448.2 > 6448
+6448.2 > 6448
+6448.2 > 6448
+6448.1 > 6448
+6448.1429722 > 6448
+6448.181627 > 6448
+6448.181627 > 6448
+6448.2 > 6448
+6448.2 > 6448
+6449 > 6449
+6449 > 6449
+6449 > 6449
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.6 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.5463938 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.6 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.5 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.6 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.2 > 6449
+6449.3 > 6449
+6449.2 > 6449
+6449.3 > 6449
+6449.2 > 6449
+6449.3 > 6449
+6449.3 > 6449
+ - price is 6450
+
+6450.1 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450.08913125 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6454.06647093 > 6454
+6454.1 > 6454
+6454.1 > 6454
+6454.1 > 6454
+6454.1 > 6454
+6454.09141144 > 6454
+6454.1 > 6454
+6454.1 > 6454
+6458.9486312 > 6459
+6459 > 6459
+6459 > 6459
+6456.7 > 6457
+6456.6 > 6457
+6456.6 > 6457
+6456.62304062 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.6 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.7 > 6457
+6456.6 > 6457
+6456.6 > 6457
+6456.6327903 > 6457
+6456.6 > 6457
+6456.6 > 6457
+6456.7 > 6457
+6456.6265697 > 6457
+6452.5 > 6453
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.3 > 6449
+6449.2 > 6449
+6444.6 > 6445
+6444.6 > 6445
+6444.60180088 > 6445
+6444.6 > 6445
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6444.60180088 > 6445
+6444.6 > 6445
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6444.7 > 6445
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6444.6 > 6445
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6444.64184125 > 6445
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6444.7 > 6445
+6444.6 > 6445
+6444.6 > 6445
+6443.6 > 6444
+6443.5 > 6444
+6442.8 > 6443
+{ Error: socket hang up
+    at createHangUpError (_http_client.js:331:15)
+    at TLSSocket.socketOnEnd (_http_client.js:423:23)
+    at emitNone (events.js:111:20)
+    at TLSSocket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1055:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9) code: 'ECONNRESET' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketOnEnd (_http_client.js:423:9)
+    at emitNone (events.js:111:20)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440.1 > 6440
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440 > 6440
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: socket hang up
+    at TLSSocket.onHangUp (_tls_wrap.js:1135:19)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at TLSSocket.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1055:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  code: 'ECONNRESET',
+  path: null,
+  host: 'api.bitfinex.com',
+  port: 443,
+  localAddress: undefined } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440 > 6440
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440.1 > 6440
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440 > 6440
+6440.06429719 > 6440
+6440.06429719 > 6440
+6440 > 6440
+6440.06429719 > 6440
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440.1 > 6440
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440 > 6440
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6434 > 6434
+6431 > 6431
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6435.2 > 6435
+6435 > 6435
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6433.4 > 6433
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6433.5 > 6434
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6433.5 > 6434
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6433.4 > 6433
+6433.44537949 > 6433
+6433.5 > 6434
+6433.4450136 > 6433
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6433.4450136 > 6433
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6433.44428112 > 6433
+6433.5 > 6434
+6433.5 > 6434
+6433.5 > 6434
+6433.1 > 6433
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6432.9192192 > 6433
+6432.9 > 6433
+{ Error: connect ETIMEDOUT 104.16.175.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.175.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.175.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.175.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.175.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.175.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6432.9 > 6433
+{ Error: connect ETIMEDOUT 104.16.175.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.175.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.175.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.175.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6434.32177223 > 6434
+6438.4 > 6438
+6438.4174848 > 6438
+6438.4 > 6438
+6438.4 > 6438
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.4 > 6438
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.4 > 6438
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.4 > 6438
+6438.5 > 6439
+6438.5 > 6439
+6438.5 > 6439
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+6438.5 > 6439
+6438.5 > 6439
+6438.4447584 > 6438
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.4 > 6438
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.174.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.174.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+6438.4 > 6438
+6438.5 > 6439
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.47467981 > 6438
+6438.43741343 > 6438
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.47467981 > 6438
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.47467981 > 6438
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.47467981 > 6438
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: getaddrinfo ENOTFOUND api.bitfinex.com api.bitfinex.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.bitfinex.com',
+  host: 'api.bitfinex.com',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: getaddrinfo ENOTFOUND api.bitfinex.com api.bitfinex.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.bitfinex.com',
+  host: 'api.bitfinex.com',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: getaddrinfo ENOTFOUND api.bitfinex.com api.bitfinex.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.bitfinex.com',
+  host: 'api.bitfinex.com',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440 > 6440
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6440 > 6440
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6439.97932668 > 6440
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6439.97932668 > 6440
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.171.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.171.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6439.97932668 > 6440
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6439.9 > 6440
+6439.9 > 6440
+6439.9 > 6440
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6439.9 > 6440
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.172.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.172.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6439.825814 > 6440
+6439.83057512 > 6440
+6439.83057512 > 6440
+6439.8 > 6440
+6439 > 6439
+6437.13415863 > 6437
+6437 > 6437
+6437 > 6437
+6436.97578357 > 6437
+6437 > 6437
+6437 > 6437
+6436.9 > 6437
+6436.95195752 > 6437
+6436.9 > 6437
+6437 > 6437
+6437 > 6437
+6437 > 6437
+6438.5 > 6439
+6438.5 > 6439
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.52380792 > 6439
+{ Error: connect ETIMEDOUT 104.16.173.181:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '104.16.173.181',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6438.5 > 6439
+6438.52380792 > 6439
+6438.52380792 > 6439
+6438.6 > 6439
+6438.6 > 6439
+6439.8 > 6440
+6440 > 6440
+6440 > 6440
+6440 > 6440
+6440 > 6440
+6439.9 > 6440
+6439.9 > 6440
+6439.9 > 6440
+6440.8 > 6441
+6441.8 > 6442
+6441.4 > 6441
+6441.4 > 6441
+6441.4 > 6441
+6441.4 > 6441
+6441.2 > 6441
+6441.3 > 6441
+6442.3 > 6442
+6442.3 > 6442
+6441.8 > 6442
+6441.9 > 6442
+6441.9 > 6442
+6441.9 > 6442
+6441.9 > 6442
+6441.8 > 6442
+6441.9 > 6442
+6441.8 > 6442
+6441.9 > 6442
+6441.9 > 6442
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6441.9 > 6442
+6441.8 > 6442
+6441.9 > 6442
+6441.9 > 6442
+6441.8102703 > 6442
+6441.8102703 > 6442
+6441.8102703 > 6442
+6441.8 > 6442
+6441.9 > 6442
+6441.9 > 6442
+6441.9 > 6442
+6441.8 > 6442
+6441.9 > 6442
+6441.8 > 6442
+6441.8 > 6442
+6444.98935854 > 6445
+6444.7 > 6445
+6444.7 > 6445
+6440.4 > 6440
+6440.5 > 6441
+6442.5 > 6443
+6442.2 > 6442
+6447.3 > 6447
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450 > 6450
+6453.9 > 6454
+6453.90388526 > 6454
+6454 > 6454
+6453.9 > 6454
+6453.9 > 6454
+6453.9 > 6454
+6454 > 6454
+6454 > 6454
+6455.8904036 > 6456
+6457.7 > 6458
+6462.8 > 6463
+6458.5 > 6459
+6458 > 6458
+6458.4 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.022644 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6457.2 > 6457
+6457.3 > 6457
+6453.2 > 6453
+6453.1 > 6453
+6453 > 6453
+6452.3 > 6452
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.8 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.2 > 6449
+6448.5 > 6449
+6448.6 > 6449
+6448.5 > 6449
+6448.6 > 6449
+6448.3 > 6448
+6448.3 > 6448
+6447.7 > 6448
+6447.6 > 6448
+6447.7 > 6448
+6447.6 > 6448
+6447.5590448 > 6448
+6447.5 > 6448
+6447.4 > 6447
+6448.6 > 6449
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6448.2 > 6448
+6448 > 6448
+6446.579545 > 6447
+6446.6 > 6447
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6449.386601 > 6449
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450.9 > 6451
+6453.6849055 > 6454
+6453.772626 > 6454
+6453.7 > 6454
+6453.7 > 6454
+6453.7 > 6454
+6452.920341 > 6453
+6452.920341 > 6453
+6452.920341 > 6453
+6453 > 6453
+6453 > 6453
+6453 > 6453
+6452.920341 > 6453
+6453 > 6453
+6453 > 6453
+6452.8 > 6453
+6452.9 > 6453
+6452.997208 > 6453
+6452.9 > 6453
+6452.9 > 6453
+6452.9 > 6453
+6452.9 > 6453
+6452.9 > 6453
+6452.90829336 > 6453
+6452.9 > 6453
+6453 > 6453
+6452.9 > 6453
+6453 > 6453
+6453 > 6453
+6453 > 6453
+6454.5 > 6455
+6454.4827525 > 6454
+6454.4 > 6454
+6454.4 > 6454
+6454.5 > 6455
+6454.49956269 > 6454
+6454.5 > 6455
+6454.5 > 6455
+6454.4 > 6454
+6454.4 > 6454
+6454.5 > 6455
+6454.4 > 6454
+6454.4 > 6454
+6454.5 > 6455
+6454.4 > 6454
+6454.4 > 6454
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6454.5 > 6455
+6454.4 > 6454
+6454.48709419 > 6454
+6456.5 > 6457
+6456.4531422 > 6456
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6456.4 > 6456
+6456.2 > 6456
+6455.7 > 6456
+{ Error: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TLSWrap.onread (net.js:615:25) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6455.6 > 6456
+6455.6 > 6456
+6455.6 > 6456
+6455.2103728 > 6455
+6455 > 6455
+6455.1927978 > 6455
+6455.1226089 > 6455
+6455.2 > 6455
+6455.1 > 6455
+6455.1 > 6455
+6455.2 > 6455
+6455.1 > 6455
+6455.1 > 6455
+6455.2 > 6455
+6455.1402728 > 6455
+6455.2 > 6455
+6455.2 > 6455
+6455.1443058 > 6455
+6455.2 > 6455
+6455.2 > 6455
+6459.5 > 6460
+6459.5815934 > 6460
+6459.5 > 6460
+6459.6 > 6460
+6459.6 > 6460
+6459.5 > 6460
+6459.6 > 6460
+6459.6 > 6460
+6459.6 > 6460
+6460.4 > 6460
+6460.4 > 6460
+6460.4 > 6460
+6461.5 > 6462
+6461.5 > 6462
+6464.1 > 6464
+6463.8 > 6464
+6463.7 > 6464
+6463.7 > 6464
+6463.6 > 6464
+6463.61392412 > 6464
+6463.7 > 6464
+6463.7 > 6464
+6463.7 > 6464
+6463.7 > 6464
+6463.6 > 6464
+6463.4 > 6463
+6463.2 > 6463
+6459.5 > 6460
+6459.5 > 6460
+6455.1 > 6455
+6454.1 > 6454
+6451.5 > 6452
+6443.5 > 6444
+6442.6 > 6443
+6442.3 > 6442
+6442.4 > 6442
+6442.4 > 6442
+6439.9 > 6440
+6439.8921756 > 6440
+6439.8 > 6440
+6438.13810718 > 6438
+6438.3 > 6438
+6438.28674684 > 6438
+6442 > 6442
+6446.7 > 6447
+6449.2010352 > 6449
+6449.3 > 6449
+6449.3 > 6449
+6449.2 > 6449
+6449.1 > 6449
+6449 > 6449
+6448.4 > 6448
+6448.4 > 6448
+6448.4 > 6448
+6448.5 > 6449
+6448.4 > 6448
+6448.43592832 > 6448
+6448.4 > 6448
+6448.43592832 > 6448
+6448.4 > 6448
+6446.7 > 6447
+6446.43422259 > 6446
+6444.7 > 6445
+6441.97708935 > 6442
+6440.8 > 6441
+6439.1 > 6439
+6438.8209151 > 6439
+6438.9 > 6439
+6438.8209151 > 6439
+6438.9 > 6439
+6438.9 > 6439
+6438.8 > 6439
+6438.8 > 6439
+6438.8 > 6439
+6438.70066353 > 6439
+6438.5 > 6439
+6438.18216613 > 6438
+6438.1 > 6438
+6438.1 > 6438
+6438.2 > 6438
+6438.88582025 > 6439
+6438.4 > 6438
+6438.4 > 6438
+6438.4 > 6438
+6438.4 > 6438
+6438.4 > 6438
+6438.32218708 > 6438
+6438.4 > 6438
+6438.3287058 > 6438
+6439 > 6439
+6445.26561702 > 6445
+6445.3 > 6445
+6445.9 > 6446
+6445.8 > 6446
+6445.8 > 6446
+6445.8 > 6446
+6445.82907031 > 6446
+6445.82907031 > 6446
+6445.8 > 6446
+6445.8 > 6446
+6445.8 > 6446
+6445.8 > 6446
+6445.72950228 > 6446
+6445.8 > 6446
+6445 > 6445
+6444.9 > 6445
+6444.9 > 6445
+6445 > 6445
+6445 > 6445
+6445 > 6445
+6444.8479494 > 6445
+6444.9 > 6445
+6439 > 6439
+6439 > 6439
+6439 > 6439
+6439 > 6439
+6439 > 6439
+6438.9424278 > 6439
+6439 > 6439
+6439 > 6439
+6439 > 6439
+6439 > 6439
+ - price is 6450
+
+ - price is 6450
+
+6449.7 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6453.9 > 6454
+6459 > 6459
+6464.4028482 > 6464
+6465.7 > 6466
+6465.7 > 6466
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450 > 6450
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450 > 6450
+ - price is 6450
+
+ - price is 6450
+
+6452.51808422 > 6453
+6453.98305453 > 6454
+6453.98305453 > 6454
+6454.1 > 6454
+6459.9 > 6460
+6463.1 > 6463
+6463 > 6463
+6463.1 > 6463
+6463.1 > 6463
+6461.3 > 6461
+6461.50549038 > 6462
+6461.50549038 > 6462
+6461.5 > 6462
+6461.5 > 6462
+6461.4 > 6461
+6461.4 > 6461
+6461.3 > 6461
+6461.4 > 6461
+6461.3 > 6461
+6459.3 > 6459
+6457.74173672 > 6458
+6457.74173672 > 6458
+6457.8 > 6458
+6457.74173672 > 6458
+6457.74173672 > 6458
+6457.7 > 6458
+6457.7 > 6458
+6455.8 > 6456
+6455.8 > 6456
+6454.8 > 6455
+6453.56247398 > 6454
+6456.5 > 6457
+6456.7 > 6457
+6457 > 6457
+6457 > 6457
+6457 > 6457
+6457.7355192 > 6458
+6456.3 > 6456
+6456.2421168 > 6456
+6456.2 > 6456
+6456.3 > 6456
+6456.3 > 6456
+6456.3 > 6456
+6456.3 > 6456
+6457 > 6457
+6457 > 6457
+6457 > 6457
+6457 > 6457
+6456.94076291 > 6457
+6456.9 > 6457
+6457 > 6457
+6457 > 6457
+6457 > 6457
+6460 > 6460
+6461.4 > 6461
+6459.6 > 6460
+6461.3 > 6461
+6461.3 > 6461
+6461 > 6461
+6461.72225733 > 6462
+6462.1 > 6462
+6464.7 > 6465
+6463.9 > 6464
+6464.9 > 6465
+6465.3 > 6465
+6466.2 > 6466
+6466.1 > 6466
+6467 > 6467
+6467 > 6467
+6468 > 6468
+6468 > 6468
+6467.9 > 6468
+6468 > 6468
+6468 > 6468
+6467.9469099 > 6468
+6467.9 > 6468
+6467.9469099 > 6468
+6467.9 > 6468
+6468.9117122 > 6469
+6469.8 > 6470
+6469.9 > 6470
+6477.2 > 6477
+6479 > 6479
+6474.3 > 6474
+6477.3 > 6477
+6476.3 > 6476
+6475.7 > 6476
+6475.9 > 6476
+6477 > 6477
+6479.9 > 6480
+6490.7 > 6491
+6492.5 > 6493
+6497.7 > 6498
+6496 > 6496
+6498.6 > 6499
+6496.6 > 6497
+6494.7 > 6495
+6494.7 > 6495
+6494.7 > 6495
+6494.7 > 6495
+6494.7 > 6495
+6494.8 > 6495
+6494.7 > 6495
+6486.4 > 6486
+6484.3 > 6484
+6478.2 > 6478
+6477.7 > 6478
+6474.4 > 6474
+6474.1 > 6474
+6474.2 > 6474
+6474.2 > 6474
+6474.1465908 > 6474
+6474.1465908 > 6474
+6474.2 > 6474
+6474.2 > 6474
+6478.5 > 6479
+6478.5 > 6479
+6478.5 > 6479
+6480.4 > 6480
+6480.4 > 6480
+6480.4 > 6480
+6478.9 > 6479
+6478.9 > 6479
+6478.80809529 > 6479
+6478.9 > 6479
+6478.9 > 6479
+6480.5 > 6481
+6489.5 > 6490
+6494.47945766 > 6494
+6498.3 > 6498
+6497.4 > 6497
+6497.5 > 6498
+6497.4 > 6497
+6497.5 > 6498
+6497.4 > 6497
+6493.8985865 > 6494
+6491 > 6491
+6491 > 6491
+6493.4 > 6493
+6493.3 > 6493
+6493.3 > 6493
+6493.3 > 6493
+6493.3 > 6493
+6491 > 6491
+6491.1 > 6491
+6491.1 > 6491
+6491.054735 > 6491
+6489.3 > 6489
+6487.8 > 6488
+6487.8 > 6488
+6485.2 > 6485
+6485.27076503 > 6485
+6485.2 > 6485
+6485.2 > 6485
+6487.46661788 > 6487
+6491.3 > 6491
+6494 > 6494
+6495.1 > 6495
+6497 > 6497
+6497.03875007 > 6497
+6497 > 6497
+6494 > 6494
+6493.1 > 6493
+6490.7 > 6491
+6490 > 6490
+6489.8 > 6490
+6486.1 > 6486
+6489.5 > 6490
+6487.1 > 6487
+6487.1 > 6487
+6487.1 > 6487
+6492.4 > 6492
+6491.4 > 6491
+6494 > 6494
+6494 > 6494
+6493.9 > 6494
+6494.6 > 6495
+6494.5 > 6495
+6494.6 > 6495
+6494.5 > 6495
+6494.00555924 > 6494
+6493.9 > 6494
+6494 > 6494
+6494 > 6494
+6492.0898569 > 6492
+6492.0898569 > 6492
+6491.4 > 6491
+6489.6 > 6490
+6488.2 > 6488
+6487.9 > 6488
+6487.7 > 6488
+6487.69552189 > 6488
+6487.6 > 6488
+6487.1 > 6487
+6487.1 > 6487
+6487.1 > 6487
+6485.9 > 6486
+6484.8 > 6485
+6484.8 > 6485
+6476 > 6476
+6474.3 > 6474
+6473.7 > 6474
+6470.9 > 6471
+6470.3 > 6470
+6466.6 > 6467
+6466.6 > 6467
+6466.5 > 6467
+6466.6 > 6467
+6464.5564627 > 6465
+6456.3 > 6456
+6451.5 > 6452
+6451.6 > 6452
+ - price is 6450
+
+ - price is 6450
+
+6444.7 > 6445
+6446.2 > 6446
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450.9 > 6451
+6458.332288 > 6458
+6466.2 > 6466
+6465.4 > 6465
+6468.8 > 6469
+6460.1 > 6460
+6462.6 > 6463
+6459.96982001 > 6460
+6455.5 > 6456
+6455.6 > 6456
+6455.5 > 6456
+6455.58079484 > 6456
+6455.5 > 6456
+6455.5 > 6456
+ - price is 6450
+
+ - price is 6450
+
+6446.2 > 6446
+6445.6 > 6446
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+ - price is 6450
+
+6450.2 > 6450
+ - price is 6450
+
+6450.8 > 6451
+6459 > 6459
+6456.9 > 6457
+6456.9 > 6457
+6462 > 6462
+6466.4 > 6466
+6467.40237825 > 6467
+6467.4 > 6467
+6467.5 > 6468
+6467.4 > 6467
+6463.52901324 > 6464
+6461.0369424 > 6461
+6461.0369424 > 6461
+6461 > 6461
+6461 > 6461
+6461.05209083 > 6461
+6461.1 > 6461
+6461.1 > 6461
+6463.8 > 6464
+6465.3 > 6465
+6465.3 > 6465
+6465.3 > 6465
+6461.425265 > 6461
+6460.020321 > 6460
+6460.020321 > 6460
+6454.9 > 6455
+6454.5 > 6455
+6454.5 > 6455
+6453 > 6453
+6453.4 > 6453
+6452.8 > 6453
+6452.19430496 > 6452
+6452.1 > 6452
+6452.9 > 6453
+6452.9 > 6453
+6458.2 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458.1 > 6458
+6458 > 6458
+6458 > 6458
+6458 > 6458
+6458.1 > 6458
+6458 > 6458
+6458.1 > 6458
+6458.2 > 6458
+6458.2 > 6458
+6458.96528053 > 6459
+6458.91413635 > 6459
+6459 > 6459
+6458.91413635 > 6459
+6458.9652711 > 6459
+6459 > 6459
+6458.91413635 > 6459
+6465.4 > 6465
+6465.3 > 6465
+6465.4 > 6465
+6467.3 > 6467
+6466.12979103 > 6466
+6466.8 > 6467
+6465.4 > 6465
+6465.4 > 6465
+6465.4 > 6465
+6465.4 > 6465
+6465.34027579 > 6465
+6465.4 > 6465
+6465.34027579 > 6465
+6465.4 > 6465
+6465.36752599 > 6465
+6465.4 > 6465
+6470 > 6470
+6477.67192119 > 6478
+6480.9 > 6481
+6481.5 > 6482
+6485 > 6485
+6484 > 6484
+6484 > 6484
+6484 > 6484
+6478.2 > 6478
+6478.8 > 6479
+6479.3 > 6479
+6480 > 6480
+6481 > 6481
+6480.5 > 6481
+6480.27681176 > 6480
+6480.27681176 > 6480
+6480.1 > 6480
+6480.1 > 6480
+6481.83545624 > 6482
+6481.6 > 6482
+6482.9 > 6483
+6482.9 > 6483
+6481.8 > 6482
+6481.9 > 6482
+6482 > 6482
+6482.1 > 6482
+6485 > 6485
+6487 > 6487
+6491.1 > 6491
+6492.7 > 6493
+6492.4 > 6492
+6492.4 > 6492
+6491.9 > 6492
+6488.9 > 6489
+6488.8 > 6489
+6488.8 > 6489
+6488.8 > 6489
+6488 > 6488
+6488 > 6488
+6488 > 6488
+6488 > 6488
+6488 > 6488
+6488 > 6488
+6488.064414 > 6488
+6488 > 6488
+6483 > 6483
+6483 > 6483
+6482.1 > 6482
+6482 > 6482
+6482 > 6482
+6482 > 6482
+6482 > 6482
+6482 > 6482
+6482 > 6482
+6482 > 6482
+6479.5 > 6480
+6479 > 6479
+6479 > 6479
+6479.1 > 6479
+6479.1 > 6479
+6479 > 6479
+6479 > 6479
+6479 > 6479
+6479 > 6479
+6477.4 > 6477
+6476.8602881 > 6477
+6476.9 > 6477
+6476.9 > 6477
+6476.8 > 6477
+6476.8 > 6477
+6476.8 > 6477
+6476.8 > 6477
+6473.8 > 6474
+6473.9 > 6474
+6473.7 > 6474
+6473.6 > 6474
+6473.7 > 6474
+6474 > 6474
+6474 > 6474
+6474 > 6474
+6474 > 6474
+6474.7 > 6475
+6474.8 > 6475
+6475 > 6475
+6475 > 6475
+6475 > 6475
+6474.9 > 6475
+6475 > 6475
+6475 > 6475
+6474.9 > 6475
+6475 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6475 > 6475
+6475 > 6475
+6475 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6475 > 6475
+6475 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6474.92816067 > 6475
+6475 > 6475
+6474.9 > 6475
+6474.9 > 6475
+6475 > 6475
+6474.9 > 6475
+6474 > 6474
+6474.63825386 > 6475
+6469.9 > 6470
+6470 > 6470
+6469.9 > 6470
+6470 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6470 > 6470
+6468.9 > 6469
+6468.9 > 6469
+6468.9 > 6469
+6468.9 > 6469
+6468.9 > 6469
+6469 > 6469
+6469 > 6469
+6468.9 > 6469
+6468.9309776 > 6469
+6468.9309776 > 6469
+6468.9 > 6469
+6469 > 6469
+6470 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6479.7 > 6480
+6481.6 > 6482
+6482 > 6482
+6481.7 > 6482
+6482 > 6482
+6482 > 6482
+6473.9 > 6474
+6473.7 > 6474
+6473.7 > 6474
+6472.4 > 6472
+6469.6 > 6470
+6468.77970164 > 6469
+6465.8 > 6466
+6465.5 > 6466
+6464.5 > 6465
+6467.213846 > 6467
+6469.6 > 6470
+6467.3 > 6467
+6466.9 > 6467
+6466.9 > 6467
+6466 > 6466
+6466 > 6466
+6461 > 6461
+6470.6 > 6471
+6469.94921314 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6469.9 > 6470
+6470 > 6470
+6470 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6470 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6469.9 > 6470
+6470 > 6470
+6469.9 > 6470
+6470 > 6470
+6470 > 6470
+6466.1 > 6466
+6468.1 > 6468
+6467.7 > 6468
+6467.6 > 6468
+6467.61609949 > 6468
+6466.37160919 > 6466
+6465 > 6465
+6465 > 6465
+6464.4569668 > 6464
+6464.4 > 6464
+6464.4 > 6464
+6464.4 > 6464
+6464.4299426 > 6464
+6464.2 > 6464
+6463.6 > 6464
+6463.6 > 6464
+6459.1 > 6459
+6459 > 6459
+6455.3 > 6455
+6455.3 > 6455
+6455.2 > 6455
+6447.7 > 6448
+6447.8 > 6448
+6447.78648242 > 6448
+6447.3 > 6447
+6447.3 > 6447
+6447.2 > 6447
+6452.8 > 6453
+6454.3 > 6454
+6455.3 > 6455
+6455.29427208 > 6455
+6455.29427208 > 6455
+6456.6 > 6457
+6456.2 > 6456
+6455.30432921 > 6455
+6455.3 > 6455
+6455.3 > 6455
+6455.3 > 6455
+6458.4 > 6458
+6462 > 6462
+6461.7 > 6462
+6461.7 > 6462
+6461.7 > 6462
+6461.6 > 6462
+6461.7 > 6462
+6461.7 > 6462
+6461.7 > 6462
+6461.7 > 6462
+6466.6 > 6467
+6466.6 > 6467
+6466 > 6466
+6465 > 6465
+6462.2 > 6462
+6462.2 > 6462
+6462.2 > 6462
+6461.7 > 6462
+6462.12488794 > 6462
+6462.2 > 6462
+6462.2 > 6462
+6462.1 > 6462
+6462.12488794 > 6462
+6462.2 > 6462
+6462.2 > 6462
+6462.2 > 6462
+6462.14384289 > 6462
+6462.14384289 > 6462
+6462.14384289 > 6462
+6462.2 > 6462
+6462.14384289 > 6462
+6462.2 > 6462
+6462.2 > 6462
+6462.14384289 > 6462
+6462.2 > 6462
+6461 > 6461
+6462 > 6462
+6462.0141468 > 6462
+6461.9 > 6462
+6461.9 > 6462
+6461 > 6461
+6460.9 > 6461
+6460.9 > 6461
+6460.63220868 > 6461
+6460.1 > 6460
+6460.2 > 6460
+6460.16447566 > 6460
+6460.1 > 6460
+6459.26008654 > 6459
+6459.26008654 > 6459
+6459.26008654 > 6459
+6459.2 > 6459
+6459.2 > 6459
+6459.2 > 6459
+6459.2 > 6459
+6459.3 > 6459
+6459.3 > 6459
+6459.2 > 6459
+6459.3 > 6459
+{ Error: getaddrinfo ENOTFOUND api.bitfinex.com api.bitfinex.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.bitfinex.com',
+  host: 'api.bitfinex.com',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: getaddrinfo ENOTFOUND api.bitfinex.com api.bitfinex.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.bitfinex.com',
+  host: 'api.bitfinex.com',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+{ Error: getaddrinfo ENOTFOUND api.bitfinex.com api.bitfinex.com:443
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'api.bitfinex.com',
+  host: 'api.bitfinex.com',
+  port: 443 } undefined undefined
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\code\v0211\code211.js:194:33)
+    at self.callback (D:\code\node_modules\request\request.js:185:22)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at Request.onRequestError (D:\code\node_modules\request\request.js:881:8)
+    at emitOne (events.js:116:13)
+    at ClientRequest.emit (events.js:211:7)
+    at TLSSocket.socketErrorListener (_http_client.js:387:9)
+    at emitOne (events.js:116:13)
+6461.5 > 6462
+6461.518458 > 6462
+6461.6 > 6462
